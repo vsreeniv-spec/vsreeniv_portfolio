@@ -10,6 +10,6 @@ navigation:
     url: /projects
   - title: Contact
     url: /contact
-  -title: Work
+  - title: Work
     url: /work
 
