@@ -7,18 +7,16 @@ description: Data engineer at the intersection of finance, analytics, and impact
 
 # Welcome 👋
 
-![Vaishnavi Sreenivasa](assets/images/IMG_9114.jpg)
-
 <p align="center">
   <img 
-    src="/assets/images/profile.jpg" 
+    src="assets/images/IMG_9114.jpg" 
     alt="Vaishnavi Sreenivasa" 
     width="220"
     style="border-radius: 50%;"
   />
 </p>
 
-Hi, I’m **Vaishnavi** — a data engineer and graduate student who enjoys building reliable data systems that turn complex information into clear, actionable insights.
+Hi, I’m **Vaishnavi** - a data engineer and graduate student who enjoys building reliable data systems that turn complex information into clear, actionable insights.
 
 I’m currently pursuing a **Master of Information Systems Management at Carnegie Mellon University**, and I bring **8+ years of industry experience** working across large-scale data platforms, analytics engineering, and financial systems. My work sits at the intersection of **data engineering, product thinking, and decision-making**, with a strong focus on trust, governance, and real-world impact.
 
