@@ -3,10 +3,11 @@ layout: default
 title: About Me
 permalink: /
 description: Data engineer at the intersection of finance, analytics, and impact.
-![Vaishnavi Sreenivasa](/assets/images/profile.jpg)
 ---
 
 # Welcome 👋
+
+![Vaishnavi Sreenivasa](/assets/images/profile.jpg)
 
 <p align="center">
   <img 
