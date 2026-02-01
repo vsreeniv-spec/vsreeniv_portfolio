@@ -8,14 +8,14 @@ profile_image: /assets/images/IMG_9114.jpg
 
 # Welcome 👋
 
-<!-- <p align="center">
+<p align="center">
   <img 
     src="assets/images/IMG_9114.jpg" 
     alt="Vaishnavi Sreenivasa" 
     width="220"
     style="border-radius: 50%;"
   />
-</p> -->
+</p>
 
 Hi, I’m **Vaishnavi** - a data engineer and graduate student who enjoys building reliable data systems that turn complex information into clear, actionable insights.
 
