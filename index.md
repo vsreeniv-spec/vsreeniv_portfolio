@@ -3,9 +3,19 @@ layout: default
 title: About Me
 permalink: /
 description: Data engineer at the intersection of finance, analytics, and impact.
+![Vaishnavi Sreenivasa](/assets/images/profile.jpg)
 ---
 
 # Welcome 👋
+
+<p align="center">
+  <img 
+    src="/assets/images/profile.jpg" 
+    alt="Vaishnavi Sreenivasa" 
+    width="220"
+    style="border-radius: 50%;"
+  />
+</p>
 
 Hi, I’m **Vaishnavi** — a data engineer and graduate student who enjoys building reliable data systems that turn complex information into clear, actionable insights.
 
