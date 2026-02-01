@@ -7,7 +7,7 @@ description: Data engineer at the intersection of finance, analytics, and impact
 
 # Welcome 👋
 
-![Vaishnavi Sreenivasa](/assets/images/profile.jpg)
+![Vaishnavi Sreenivasa](assets/images/IMG_9114.jpg)
 
 <p align="center">
   <img 
