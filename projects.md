@@ -9,9 +9,42 @@ description: You can find me in the intersection of public policy, finance, and 
 
 Here are some of the projects I've been working on across finance, analytics, and large-scale data platforms. Each project reflects a focus on building reliable data systems that enable better decision-making at scale.
 
+##Capstone Projects
+- [AI Digital Twin of a Product Owner – Armada](#project-4-ai-digital-twin-of-a-product-owner--armada)
+- [Small Business Growth Strategy – PNC Bank](#project-5-small-business-growth-strategy--pnc-bank)
+
+##Industry Projects
 - [Finance Data Platform Modernization](#project-1-finance-data-platform-modernization)
 - [Global Business Solutions Analytics Data Mart](#project-2-global-business-solutions-analytics-data-mart)
 - [Customer Data Lake & Compliance Migration](#project-3-customer-data-lake--compliance-migration)
+
+---
+
+## Capstone Project 1: AI Digital Twin of a Product Owner – Armada
+As part of an ongoing capstone engagement with Armada, I am designing a prototype AI agent that acts as a digital twin of a Product Owner — handling guided intake, problem diagnosis, and value capture through efficient model training. The system automates the translation of natural language instructions into structured Jira artifacts and supporting design documentation, reducing the manual overhead that typically slows product delivery cycles. It also generates verified, executive-level release summaries focused on outcomes rather than activity.
+
+This project sits at the intersection of AI engineering, product operations, and workflow automation — and pushes me to think carefully about how AI agents can augment human judgment rather than replace it.
+
+**What I Learned**:
+- Designing agentic AI systems for structured, real-world product workflows  
+- Translating ambiguous product intent into reliable, verifiable artifacts  
+- Building toward executive-grade communication outputs from AI-generated content  
+
+**Link**: Ongoing capstone project (details available upon request)
+
+---
+
+## Capstone Project 2: Small Business Growth Strategy – PNC Bank
+In collaboration with PNC Bank, I analyzed cash flow management patterns and explored personalized, data-driven recommendations to increase product adoption among small business customers. The project involved conducting market and competitive landscape analysis across traditional banks and fintech players to identify white-space opportunities and differentiation levers. I also led customer discovery interviews and translated findings into a concrete GTM framework with defined metrics across acquisition, retention, and personalization.
+
+This project reinforced how data strategy and product thinking intersect with real business growth — and how customer empathy is just as important as analytical rigor when defining a market approach.
+
+**What I Learned**:
+- Applying customer discovery and competitive analysis to fintech product strategy  
+- Defining GTM metrics that connect data signals to business outcomes  
+- Bridging qualitative insights from interviews with quantitative recommendations  
+
+**Link**: Graduate consulting engagement (details available upon request)
 
 ---
 
