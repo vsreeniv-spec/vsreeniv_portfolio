@@ -11,7 +11,7 @@ I’d love to connect — whether it’s to talk about data engineering, analyti
 
 You can reach me here:
 
-- **Email**: [vsreeniv@andrew.cmu.edu](mailto:vsreeniv@andrew.cmu.edu)
+- **Email**: [vsreeniv18@gmail.com](mailto:vsreeniv18@gmail.com)
 - **LinkedIn**: [linkedin.com/in/vaishnavisreenivasa](https://www.linkedin.com/in/vaishnavisreenivasa/)
 - **GitHub**: [github.com/vsreeniv-spec](https://github.com/vsreeniv-spec)
 
