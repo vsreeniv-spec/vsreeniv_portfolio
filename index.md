@@ -38,9 +38,9 @@ profile_image: /assets/images/IMG_9114.jpg
   </div>
 </div>
 
-Hi, I'm **Vaishnavi** — a data engineer and graduate student who enjoys building reliable data systems that turn complex information into clear, actionable insights.
+Hi, I'm <strong>Vaishnavi</strong> — a data engineer and graduate student who enjoys building reliable data systems that turn complex information into clear, actionable insights.
 
-I'm currently pursuing a **Master of Information Systems Management at Carnegie Mellon University**, and I bring **8+ years of industry experience** working across large-scale data platforms, analytics engineering, and financial systems. My work sits at the intersection of **data engineering, product thinking, and decision-making**, with a strong focus on trust, governance, and real-world impact.
+I'm currently pursuing a <strong>Master of Information Systems Management at Carnegie Mellon University</strong>, and I bring <strong>8+ years of industry experience</strong> working across large-scale data platforms, analytics engineering, and financial systems. My work sits at the intersection of <strong>data engineering, product thinking, and decision-making</strong>, with a strong focus on trust, governance, and real-world impact.
 
 <div class="cta-strip reveal">
   <a href="{{ '/projects' | relative_url }}" class="cta-btn cta-btn--primary">View Projects →</a>
@@ -51,7 +51,7 @@ I'm currently pursuing a **Master of Information Systems Management at Carnegie 
 
 ## What I Work On
 
-<div class="reveal">
+<div class="reveal" markdown="1">
 
 Over the years, I've designed and built:
 
@@ -87,7 +87,7 @@ I've worked closely with engineers, analysts, finance teams, auditors, and produ
 
 ## How I Think About Data
 
-<div class="reveal">
+<div class="reveal" markdown="1">
 
 I care deeply about **data quality, usability, and accountability**. To me, good data engineering isn't just about moving data fast—it's about making sure people can *trust* it, *understand* it, and *use* it to make better decisions.
 
@@ -105,7 +105,7 @@ I care deeply about **data quality, usability, and accountability**. To me, good
   </div>
 </div>
 
-<div class="reveal">
+<div class="reveal" markdown="1">
 
 Outside of classes and projects, I enjoy mentoring, collaborating in team-based environments, and learning how technology intersects with organizational processes and public outcomes. I'm motivated by work that has **clarity of purpose**, whether that's improving financial transparency, enabling better products, or supporting more informed decision-making.
 
