@@ -7,25 +7,28 @@ description: Building the data infrastructure behind better decisions — from p
 
 # My Projects
 
+<div class="reveal">
+
 Here are some of the projects I've been working on across finance, analytics, and large-scale data platforms. Each project reflects a focus on building reliable data systems that enable better decision-making at scale.
+
+</div>
+
+<div class="project-nav reveal">
+  <a href="#capstone-ai-twin">AI Digital Twin</a>
+  <a href="#capstone-pnc">PNC Growth Strategy</a>
+  <a href="#finance-platform">Finance Platform</a>
+  <a href="#analytics-mart">Analytics Data Mart</a>
+  <a href="#customer-lake">Customer Data Lake</a>
+</div>
 
 ---
 
 ## 🎓 Capstone Projects
 
-- [AI Digital Twin of a Product Owner – Armada](#capstone-project-1-ai-digital-twin-of-a-product-owner--armada)
-- [Small Business Growth Strategy – PNC Bank](#capstone-project-2-small-business-growth-strategy--pnc-bank)
-
-## 🏢 Industry Projects
-
-- [Finance Data Platform Modernization](#industry-project-1-finance-data-platform-modernization)
-- [Global Business Solutions Analytics Data Mart](#industry-project-2-global-business-solutions-analytics-data-mart)
-- [Customer Data Lake & Compliance Migration](#industry-project-3-customer-data-lake--compliance-migration)
-
----
+<div class="project-card reveal" id="capstone-ai-twin">
 
 ## Capstone Project 1: AI Digital Twin of a Product Owner – Armada
-*May 2026 – Present*
+<p class="project-meta">May 2026 – Present</p>
 
 As part of an ongoing capstone engagement with Armada, I am designing a prototype AI agent that acts as a digital twin of a Product Owner — handling guided intake, problem diagnosis, and value capture through efficient model training. The system automates the translation of natural language instructions into structured Jira artifacts and supporting design documentation, reducing the manual overhead that typically slows product delivery cycles. It also generates verified, executive-level release summaries focused on outcomes rather than activity.
 
@@ -36,12 +39,14 @@ This project sits at the intersection of AI engineering, product operations, and
 - Translating ambiguous product intent into reliable, verifiable artifacts
 - Building toward executive-grade communication outputs from AI-generated content
 
-**Status**: Ongoing capstone project *(details available upon request)*
+<span class="status-badge">Ongoing capstone</span>
 
----
+</div>
+
+<div class="project-card reveal" id="capstone-pnc">
 
 ## Capstone Project 2: Small Business Growth Strategy – PNC Bank
-*January 2026 – April 2026*
+<p class="project-meta">January 2026 – April 2026</p>
 
 In collaboration with PNC Bank, I analyzed cash flow management patterns and explored personalized, data-driven recommendations to increase product adoption among small business customers. The project involved conducting market and competitive landscape analysis across traditional banks and fintech players to identify white-space opportunities and differentiation levers. I also led customer discovery interviews and translated findings into a concrete GTM framework with defined metrics across acquisition, retention, and personalization.
 
@@ -52,9 +57,15 @@ This project reinforced how data strategy and product thinking intersect with re
 - Defining GTM metrics that connect data signals to business outcomes
 - Bridging qualitative insights from interviews with quantitative recommendations
 
-**Status**: Graduate consulting engagement *(details available upon request)*
+<span class="status-badge">Graduate consulting</span>
+
+</div>
 
 ---
+
+## 🏢 Industry Projects
+
+<div class="project-card reveal" id="finance-platform">
 
 ## Industry Project 1: Finance Data Platform Modernization
 
@@ -67,9 +78,11 @@ This project was especially interesting because it balanced innovation with regu
 - Translating finance and compliance requirements into reliable data architecture
 - Optimizing cloud costs while improving performance and data quality
 
-**Status**: Internal enterprise project *(details available upon request)*
+<span class="status-badge">Enterprise · SOX</span>
 
----
+</div>
+
+<div class="project-card reveal" id="analytics-mart">
 
 ## Industry Project 2: Global Business Solutions Analytics Data Mart
 
@@ -82,9 +95,11 @@ This project highlighted the importance of strong data modeling and product thin
 - Partnering with non-technical stakeholders to define meaningful metrics
 - Enabling self-service analytics through thoughtful data abstractions
 
-**Status**: Internal enterprise project *(details available upon request)*
+<span class="status-badge">Enterprise · Analytics</span>
 
----
+</div>
+
+<div class="project-card reveal" id="customer-lake">
 
 ## Industry Project 3: Customer Data Lake & Compliance Migration
 
@@ -97,7 +112,9 @@ This work sat at the intersection of data engineering, privacy, and consumer tru
 - Building and optimizing large-scale distributed pipelines using Spark and SQL
 - Improving data reliability through monitoring, alerting, and automation
 
-**Status**: Internal enterprise project *(details available upon request)*
+<span class="status-badge">Enterprise · CCPA · 20M+ users</span>
+
+</div>
 
 ---
 

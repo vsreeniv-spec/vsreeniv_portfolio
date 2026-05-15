@@ -7,12 +7,35 @@ description: Professional experience across data engineering, analytics platform
 
 # Work Experience
 
+<div class="reveal">
+
 I bring **8+ years of experience** building scalable data platforms for analytics, finance, and decision-making.  
 Click on a role below to expand details.
 
+</div>
+
+<div class="impact-row reveal">
+  <div class="impact-chip">
+    <strong>75%</strong>
+    <span>Pipeline throughput gain</span>
+  </div>
+  <div class="impact-chip">
+    <strong>70%</strong>
+    <span>Fewer data errors</span>
+  </div>
+  <div class="impact-chip">
+    <strong>30%</strong>
+    <span>AWS cost reduction</span>
+  </div>
+  <div class="impact-chip">
+    <strong>60+</strong>
+    <span>Technical interviews</span>
+  </div>
+</div>
+
 ---
 
-<details class="experience">
+<details class="experience reveal">
 <summary>
   <span class="arrow">▸</span>
   <strong>Intuit — Senior Data Engineer</strong>
@@ -34,7 +57,7 @@ Click on a role below to expand details.
 
 ---
 
-<details class="experience">
+<details class="experience reveal">
 <summary>
   <span class="arrow">▸</span>
   <strong>Intuit — Software Engineer II</strong>
@@ -54,7 +77,7 @@ Click on a role below to expand details.
 
 ---
 
-<details class="experience">
+<details class="experience reveal">
 <summary>
   <span class="arrow">▸</span>
   <strong>Quicken — Data Engineer</strong>
