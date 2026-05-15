@@ -2,7 +2,7 @@
 layout: default
 title: Recent Projects
 permalink: /projects/
-description: You can find me in the intersection of public policy, finance, and data.
+description: Building the data infrastructure behind better decisions — from pipelines to product strategy.
 ---
 
 # My Projects
